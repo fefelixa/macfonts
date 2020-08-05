@@ -31,6 +31,7 @@ drag and drop all appropriate .otf font files into the appropriate section
 open a terminal (usually ctrl+alt+t)
 
 `cd ~/.fonts
+
 git clone https://github.com/froggeboi/macfonts.git `
 
 (if ~/.fonts does not exist, use `mkdir ~/.fonts` to create it)
