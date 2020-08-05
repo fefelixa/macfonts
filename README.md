@@ -1,3 +1,19 @@
 # macfonts
 these are the fonts used throught various apple systems (macos, ios, etc.)
 i made this just because i was tired of having to sign into my onedrive everytime i needed one of these
+# installation
+## windows
+### method 1 (all versions)
+download the zip and extract the folders into a memorable place place
+copy all appropriate .otf font files into `C:/Windows/Fonts`
+### method 2 (windows 10 only)
+download the zip and extract the folders into a memorable place
+open settings
+search for "fonts" (no quotes)
+drag and drop all appropriate .otf font files into the appropriate section
+## linux
+open a terminal (usually ctrl+alt+t)
+type `cd ~/.fonts`
+(if you get an error, type `mkdir ~/.fonts`)
+type `git clone
+
