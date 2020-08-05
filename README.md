@@ -42,7 +42,7 @@ go to [https://developer.apple.com/fonts/](https://developer.apple.com/fonts/)
 
 download sf pro, sf mono and sf compact
 
-install it (no i dont know how)
+install it (i do not know how but if someone does making a pull request would help)
 
 # TODO
 
