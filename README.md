@@ -8,20 +8,27 @@ i made this just because i was tired of having to sign into my onedrive everytim
 
 # installation
 
+`Every SF` contains every single `.otf` file for convenience.
+
 ## windows
 
 ### method 1 (all versions)
 
 download the zip and extract the folders into a memorable place place
 
-copy all appropriate .otf font files into `C:/Windows/Fonts`
+copy all appropriate `.otf` font files into `C:/Windows/Fonts`
 
-### method 2 (windows 10 only)
+### method 2 (not recommended - windows 10 only)
 
 download the zip and extract the folders into a memorable place
+
 open settings
+
 go to [personalisation](ms-settings:personalization-colors) and select the fonts tab
-drag and drop all appropriate .otf font files into the appropriate section
+
+drag and drop all appropriate .otf font files into this section:
+
+![Drag and drop to install](WindowsDragDrop.png)
 
 ## linux (local installation)
 
@@ -41,7 +48,14 @@ download sf pro, sf mono and sf compact
 
 install it (i do not know how but if someone does making a pull request/issue explaining how would help)
 
-# TODO
+# todo
 
 find out how to install fonts on a mac
 
+# NOTICE
+
+i am not associated or affiliated in any way with Apple, Inc.
+
+these fonts are created by Apple and i am simply here to pass them onto you
+
+also i used [7-zip](7-zip.org) to find these files from the official .dmg files that Apple supplies (for free)
