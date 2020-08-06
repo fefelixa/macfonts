@@ -50,7 +50,7 @@ install it (i do not know how but if someone does making a pull request/issue ex
 
 # todo
 
-find out how to install fonts on a mac
+- [ ] find out how to install fonts on a mac
 
 # NOTICE
 
