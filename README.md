@@ -19,11 +19,8 @@ copy all appropriate .otf font files into `C:/Windows/Fonts`
 ### method 2 (windows 10 only)
 
 download the zip and extract the folders into a memorable place
-
 open settings
-
-search for "fonts" (no quotes)
-
+go to [personalisation](ms-settings:personalization-colors) and select the fonts tab
 drag and drop all appropriate .otf font files into the appropriate section
 
 ## linux (local installation)
@@ -38,11 +35,11 @@ open a terminal (usually ctrl+alt+t)
 
 ## mac os x
 
-go to [https://developer.apple.com/fonts/](https://developer.apple.com/fonts/)
+go to [developer.apple.com/fonts/](https://developer.apple.com/fonts/)
 
 download sf pro, sf mono and sf compact
 
-install it (i do not know how but if someone does making a pull request would help)
+install it (i do not know how but if someone does making a pull request/issue explaining how would help)
 
 # TODO
 
