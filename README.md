@@ -46,11 +46,10 @@ go to [developer.apple.com/fonts/](https://developer.apple.com/fonts/)
 
 download sf pro, sf mono and sf compact
 
-install it (i do not know how but if someone does making a pull request/issue explaining how would help)
-
+install it (no i dont know)
 # todo
 
-- [ ] find out how to install fonts on a mac
+- [ ] find out how to install fonts on a mac (making a pull request/issue/contacting me in any way to let me know how would be great <3)
 
 # NOTICE
 
