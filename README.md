@@ -54,6 +54,8 @@ open a terminal (usually ctrl+alt+t) and type:
 
 (if `~/.fonts` does not exist, use `mkdir ~/.fonts` to create it)
 
+**please refer to your linux distro's documentation for proper installation instructions - this is just what i think should work based off of what ive seen)**
+
 ## mac os x
 
 go to [developer.apple.com/fonts/](https://developer.apple.com/fonts/)
