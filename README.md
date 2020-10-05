@@ -70,7 +70,7 @@ install it (i dont know how)
 
 # notice
 
-i am not associated or affiliated in any way with [Apple, Inc.](https://apple.com/)
+i am not associated or affiliated in any way with [Apple, Inc.](https://apple.com/legal/)
 
 these fonts are created by Apple and i am simply here to pass them onto you
 
