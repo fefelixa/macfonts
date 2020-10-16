@@ -10,6 +10,18 @@ i made this just because i was tired of having to sign into my onedrive every ti
 
 the `San Francisco` folder contains every single `.otf` file for convenience.
 
+## global
+
+this method works across most OSes/distros
+
+download the zip (you dont have to extract the files but you can if you want to)
+
+open an `.otf` file (double-click)
+
+click install
+
+repeat for all desired files
+
 ## windows
 
 using an account with administrative privileges is recommended
