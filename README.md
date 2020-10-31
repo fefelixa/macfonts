@@ -8,13 +8,15 @@ i made this just because i was tired of having to sign into my onedrive every ti
 
 # installation
 
-the `San Francisco` folder contains every single `.otf` file for convenience.
+the `San Francisco` folder contains every  SF style `.otf` file
+
+the `New York` folder contains every NY style `.otf` file
 
 ## global
 
 this method works across most OSes/distros
 
-download the zip (you dont have to extract the files but you can if you want to)
+download the zip (you dont have to extract the files depending on your os but you can if you want to)
 
 open an `.otf` file (double-click)
 
