@@ -82,10 +82,6 @@ download the fonts you want
 
 install the .dmg file(s) (i dont know how)
 
-# todo
-
-- [ ] find out how to install fonts on a mac (making a pull request/issue/contacting me in any way to let me know how would be great <3)
-
 # notice
 
 i am not associated or affiliated in any way with [Apple, Inc.](https://apple.com/legal/)
