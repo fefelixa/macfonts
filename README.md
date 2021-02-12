@@ -82,7 +82,7 @@ download the fonts you want
 
 install the .dmg file(s) (i dont know how)
 
-# notice
+# legal
 
 i am not associated or affiliated in any way with [Apple, Inc.](https://apple.com/legal/)
 
