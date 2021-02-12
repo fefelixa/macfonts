@@ -1,3 +1,7 @@
+# notice
+
+you can use the [inter font](https://fonts.google.com/specimen/Inter) from [google fonts](https://fonts.google.com) for better compatibilty (looks v similar to this and 100% legal)
+
 # macfonts
 
 these are the fonts used throught all modern apple systems (macos, ios, etc.)
