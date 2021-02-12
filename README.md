@@ -78,9 +78,9 @@ open a terminal (usually ctrl+alt+t) and type:
 
 go to [developer.apple.com/fonts/](https://developer.apple.com/fonts/)
 
-download sf pro, sf mono and sf compact
+download the fonts you want
 
-install it (i dont know how)
+install the .dmg file(s) (i dont know how)
 
 # todo
 
