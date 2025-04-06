@@ -48,7 +48,7 @@ click install
 
 repeat this for every font desired
 
-### method 3 (not recommended - windows 10 only)
+### method 3 (windows 10+ only)
 
 download the zip and extract its contents
 
@@ -64,15 +64,16 @@ drag and drop all appropriate .otf font files into this section:
 
 the installation method is different for all distributions, but this is the most common
 
-open a terminal (usually ctrl+alt+t) and type:
+open a terminal (ctrl+alt+t) and type:
 
-`cd ~/.fonts`
-
-`git clone https://github.com/froggeboi/macfonts.git `
+```
+cd ~/.fonts
+git clone https://github.com/froggeboi/macfonts.git
+```
 
 (if `~/.fonts` does not exist, use `mkdir ~/.fonts` to create it)
 
-**please refer to your linux distro's documentation for proper installation instructions - this is just what i think should work based off of what ive seen)**
+**please refer to your distro's docs for proper installation instructions**
 
 ## mac os x
 
@@ -80,7 +81,9 @@ go to [developer.apple.com/fonts/](https://developer.apple.com/fonts/)
 
 download the fonts you want
 
-install the .dmg file(s) (i dont know how)
+open the .dmg file(s)
+
+drag and drop the thing into the folder
 
 # legal
 
